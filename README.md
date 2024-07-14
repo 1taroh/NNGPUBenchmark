@@ -15,8 +15,10 @@ MLPでベンチマークをしたいときは以下のコマンド．
 ```bash
 python benchmark.py MLP
 ```
+`results` ディレクトリにベンチマークの結果が保存される．
 
 CNNでベンチマークをしたいときは以下のコマンド．
 ```bash
 python benchmark.py CNN
 ```
+`results` ディレクトリにベンチマークの結果が保存される．
