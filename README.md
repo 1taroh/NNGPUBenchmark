@@ -1,0 +1,2 @@
+# NNGPUBenchmark
+MLPやCNNでGPUの性能をベンチマークする
