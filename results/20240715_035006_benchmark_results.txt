@@ -1,0 +1,6 @@
+NVIDIA GeForce RTX 3060 Ti
+model name: CNN
+Training time: 31.65[sec]
+Epochs: 3
+Loss: 0.000000
+Accuracy: 62.50%
