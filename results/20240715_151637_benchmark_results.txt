@@ -1,0 +1,6 @@
+NVIDIA GeForce GTX 1660 Ti
+model name: CNN
+Training time: 28.67[sec]
+Epochs: 3
+Loss: 0.000000
+Accuracy: 55.86%

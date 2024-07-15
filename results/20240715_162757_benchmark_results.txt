@@ -1,0 +1,175 @@
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 95.65[sec]
+Epochs: 10
+Train Batch Size: 64
+Test Batch Size: 64
+Accuracy: 39.06%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 94.92[sec]
+Epochs: 10
+Train Batch Size: 64
+Test Batch Size: 128
+Accuracy: 37.50%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 95.11[sec]
+Epochs: 10
+Train Batch Size: 64
+Test Batch Size: 256
+Accuracy: 37.50%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 94.71[sec]
+Epochs: 10
+Train Batch Size: 64
+Test Batch Size: 512
+Accuracy: 22.07%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 94.67[sec]
+Epochs: 10
+Train Batch Size: 64
+Test Batch Size: 1024
+Accuracy: 26.07%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 90.18[sec]
+Epochs: 10
+Train Batch Size: 128
+Test Batch Size: 64
+Accuracy: 57.81%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 89.40[sec]
+Epochs: 10
+Train Batch Size: 128
+Test Batch Size: 128
+Accuracy: 50.78%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 89.60[sec]
+Epochs: 10
+Train Batch Size: 128
+Test Batch Size: 256
+Accuracy: 45.70%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 89.39[sec]
+Epochs: 10
+Train Batch Size: 128
+Test Batch Size: 512
+Accuracy: 40.62%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 89.26[sec]
+Epochs: 10
+Train Batch Size: 128
+Test Batch Size: 1024
+Accuracy: 40.43%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 89.30[sec]
+Epochs: 10
+Train Batch Size: 256
+Test Batch Size: 64
+Accuracy: 62.50%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 88.16[sec]
+Epochs: 10
+Train Batch Size: 256
+Test Batch Size: 128
+Accuracy: 58.59%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 88.91[sec]
+Epochs: 10
+Train Batch Size: 256
+Test Batch Size: 256
+Accuracy: 53.52%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 88.15[sec]
+Epochs: 10
+Train Batch Size: 256
+Test Batch Size: 512
+Accuracy: 50.00%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 87.50[sec]
+Epochs: 10
+Train Batch Size: 256
+Test Batch Size: 1024
+Accuracy: 49.12%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 87.54[sec]
+Epochs: 10
+Train Batch Size: 512
+Test Batch Size: 64
+Accuracy: 68.75%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 86.88[sec]
+Epochs: 10
+Train Batch Size: 512
+Test Batch Size: 128
+Accuracy: 61.72%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 89.27[sec]
+Epochs: 10
+Train Batch Size: 512
+Test Batch Size: 256
+Accuracy: 56.25%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 87.45[sec]
+Epochs: 10
+Train Batch Size: 512
+Test Batch Size: 512
+Accuracy: 53.71%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 86.81[sec]
+Epochs: 10
+Train Batch Size: 512
+Test Batch Size: 1024
+Accuracy: 51.27%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 87.71[sec]
+Epochs: 10
+Train Batch Size: 1024
+Test Batch Size: 64
+Accuracy: 64.06%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 86.92[sec]
+Epochs: 10
+Train Batch Size: 1024
+Test Batch Size: 128
+Accuracy: 62.50%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 86.24[sec]
+Epochs: 10
+Train Batch Size: 1024
+Test Batch Size: 256
+Accuracy: 59.77%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 85.83[sec]
+Epochs: 10
+Train Batch Size: 1024
+Test Batch Size: 512
+Accuracy: 53.71%
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 85.45[sec]
+Epochs: 10
+Train Batch Size: 1024
+Test Batch Size: 1024
+Accuracy: 54.79%

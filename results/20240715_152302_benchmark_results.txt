@@ -1,0 +1,7 @@
+NVIDIA GeForce GTX 1660 Ti
+model name: MLP
+Training time: 27.98[sec]
+Epochs: 3
+Train Batch Size: 128
+Test Batch Size: 256
+Accuracy: 45.31%
