@@ -62,8 +62,8 @@ def benchmark_MLP(epochs=3, train_batch_size=128, test_batch_size=256) -> list:
     trainset = torchvision.datasets.CIFAR10(root='./', train=True, download=True, transform=transform)
     testset = torchvision.datasets.CIFAR10(root='./', train=False, download=True, transform=transform)
 
-    trainloader = torch.utils.data.DataLoader(trainset, batch_size=128, shuffle=True)
-    testloader = torch.utils.data.DataLoader(testset, batch_size=256, shuffle=False)
+    trainloader = torch.utils.data.DataLoader(trainset, batch_size=train_batch_size, shuffle=True)
+    testloader = torch.utils.data.DataLoader(testset, batch_size=test_batch_size, shuffle=False)
 
     acc_list = []
     # モデルの学習
